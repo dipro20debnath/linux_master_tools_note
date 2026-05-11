@@ -80,7 +80,19 @@ This repository contains **comprehensive, production-grade reference notes** for
 | 32 | `cron` / `crontab` | [📄 Read Note](./04_process_management/32_cron_crontab.md) | ⭐⭐⭐ Advanced |
 
 ---
-#### Category 5: 🌐 Networking *(Coming Soon)*
+#### Category 5: 🌐 [Networking](./05_networking/)
+| # | Tool | Note | Difficulty |
+|---|------|------|------------|
+| 33 | `ping` | [📄 Read Note](./05_networking/33_ping.md) | ⭐ Beginner |
+| 34 | `ifconfig` / `ip` | [📄 Read Note](./05_networking/34_ifconfig_ip.md) | ⭐⭐ Intermediate |
+| 35 | `netstat` / `ss` | [📄 Read Note](./05_networking/35_netstat_ss.md) | ⭐⭐ Intermediate |
+| 36 | `curl` | [📄 Read Note](./05_networking/36_curl.md) | ⭐⭐ Intermediate |
+| 37 | `wget` | [📄 Read Note](./05_networking/37_wget.md) | ⭐⭐ Intermediate |
+| 38 | `ssh` | [📄 Read Note](./05_networking/38_ssh.md) | ⭐⭐ Intermediate |
+| 39 | `scp` / `rsync` | [📄 Read Note](./05_networking/39_scp_rsync.md) | ⭐⭐ Intermediate |
+| 40 | `nmap` | [📄 Read Note](./05_networking/40_nmap.md) | ⭐⭐⭐ Advanced |
+
+---
 #### Category 6: 💾 Disk & Storage Management *(Coming Soon)*
 #### Category 7: 📦 Package Management *(Coming Soon)*
 #### Category 8: 📊 System Information & Monitoring *(Coming Soon)*

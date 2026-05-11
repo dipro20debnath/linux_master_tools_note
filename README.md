@@ -69,7 +69,17 @@ This repository contains **comprehensive, production-grade reference notes** for
 | 26 | `groups` / `usermod` | [📄 Read Note](./03_user_permission/26_groups_usermod.md) | ⭐⭐ Intermediate |
 
 ---
-#### Category 4: ⚙️ Process Management *(Coming Soon)*
+#### Category 4: ⚙️ [Process Management](./04_process_management/)
+| # | Tool | Note | Difficulty |
+|---|------|------|------------|
+| 27 | `ps` | [📄 Read Note](./04_process_management/27_ps.md) | ⭐⭐ Intermediate |
+| 28 | `top` / `htop` | [📄 Read Note](./04_process_management/28_top_htop.md) | ⭐⭐ Intermediate |
+| 29 | `kill` / `killall` | [📄 Read Note](./04_process_management/29_kill_killall.md) | ⭐⭐ Intermediate |
+| 30 | `bg` / `fg` / `jobs` | [📄 Read Note](./04_process_management/30_bg_fg_jobs.md) | ⭐⭐ Intermediate |
+| 31 | `nohup` | [📄 Read Note](./04_process_management/31_nohup.md) | ⭐⭐ Intermediate |
+| 32 | `cron` / `crontab` | [📄 Read Note](./04_process_management/32_cron_crontab.md) | ⭐⭐⭐ Advanced |
+
+---
 #### Category 5: 🌐 Networking *(Coming Soon)*
 #### Category 6: 💾 Disk & Storage Management *(Coming Soon)*
 #### Category 7: 📦 Package Management *(Coming Soon)*

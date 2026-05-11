@@ -58,7 +58,17 @@ This repository contains **comprehensive, production-grade reference notes** for
 | 20 | `wc` | [📄 Read Note](./02_text_processing/20_wc.md) | ⭐ Beginner |
 
 ---
-#### Category 3: 🔐 User & Permission Management *(Coming Soon)*
+#### Category 3: 🔐 [User & Permission Management](./03_user_permission/)
+| # | Tool | Note | Difficulty |
+|---|------|------|------------|
+| 21 | `chmod` | [📄 Read Note](./03_user_permission/21_chmod.md) | ⭐⭐ Intermediate |
+| 22 | `chown` | [📄 Read Note](./03_user_permission/22_chown.md) | ⭐⭐ Intermediate |
+| 23 | `useradd` / `adduser` | [📄 Read Note](./03_user_permission/23_useradd_adduser.md) | ⭐⭐ Intermediate |
+| 24 | `passwd` | [📄 Read Note](./03_user_permission/24_passwd.md) | ⭐ Beginner |
+| 25 | `su` / `sudo` | [📄 Read Note](./03_user_permission/25_su_sudo.md) | ⭐⭐ Intermediate |
+| 26 | `groups` / `usermod` | [📄 Read Note](./03_user_permission/26_groups_usermod.md) | ⭐⭐ Intermediate |
+
+---
 #### Category 4: ⚙️ Process Management *(Coming Soon)*
 #### Category 5: 🌐 Networking *(Coming Soon)*
 #### Category 6: 💾 Disk & Storage Management *(Coming Soon)*

@@ -43,7 +43,21 @@ This repository contains **comprehensive, production-grade reference notes** for
 
 ---
 
-#### Category 2: 📝 Text Processing & Viewing *(Coming Soon)*
+#### Category 2: 📝 [Text Processing & Viewing](./02_text_processing/)
+| # | Tool | Note | Difficulty |
+|---|------|------|------------|
+| 11 | `cat` | [📄 Read Note](./02_text_processing/11_cat.md) | ⭐ Beginner |
+| 12 | `less` / `more` | [📄 Read Note](./02_text_processing/12_less_more.md) | ⭐ Beginner |
+| 13 | `head` | [📄 Read Note](./02_text_processing/13_head.md) | ⭐ Beginner |
+| 14 | `tail` | [📄 Read Note](./02_text_processing/14_tail.md) | ⭐ Beginner |
+| 15 | `grep` | [📄 Read Note](./02_text_processing/15_grep.md) | ⭐⭐ Intermediate |
+| 16 | `sed` | [📄 Read Note](./02_text_processing/16_sed.md) | ⭐⭐⭐ Advanced |
+| 17 | `awk` | [📄 Read Note](./02_text_processing/17_awk.md) | ⭐⭐⭐ Advanced |
+| 18 | `sort` | [📄 Read Note](./02_text_processing/18_sort.md) | ⭐⭐ Intermediate |
+| 19 | `uniq` | [📄 Read Note](./02_text_processing/19_uniq.md) | ⭐⭐ Intermediate |
+| 20 | `wc` | [📄 Read Note](./02_text_processing/20_wc.md) | ⭐ Beginner |
+
+---
 #### Category 3: 🔐 User & Permission Management *(Coming Soon)*
 #### Category 4: ⚙️ Process Management *(Coming Soon)*
 #### Category 5: 🌐 Networking *(Coming Soon)*

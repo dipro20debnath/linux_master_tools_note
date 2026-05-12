@@ -103,7 +103,15 @@ This repository contains **comprehensive, production-grade reference notes** for
 | 45 | `lsblk` | [📄 Read Note](./06_disk_storage/45_lsblk.md) | ⭐⭐ Intermediate |
 
 ---
-#### Category 7: 📦 Package Management *(Coming Soon)*
+#### Category 7: 📦 [Package Management](./07_package_management/)
+| # | Tool | Note | Difficulty |
+|---|------|------|------------|
+| 46 | `apt` / `yum` / `dnf` | [📄 Read Note](./07_package_management/46_apt_yum_dnf.md) | ⭐⭐ Intermediate |
+| 47 | `dpkg` / `rpm` | [📄 Read Note](./07_package_management/47_dpkg_rpm.md) | ⭐⭐ Intermediate |
+| 48 | `snap` / `flatpak` | [📄 Read Note](./07_package_management/48_snap_flatpak.md) | ⭐⭐ Intermediate |
+| 49 | `pip` / `pip3` | [📄 Read Note](./07_package_management/49_pip.md) | ⭐⭐ Intermediate |
+
+---
 #### Category 8: 📊 System Information & Monitoring *(Coming Soon)*
 #### Category 9: 🗜️ Compression & Archiving *(Coming Soon)*
 #### Category 10: 🔧 Advanced & Miscellaneous *(Coming Soon)*

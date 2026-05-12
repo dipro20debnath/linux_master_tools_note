@@ -93,7 +93,16 @@ This repository contains **comprehensive, production-grade reference notes** for
 | 40 | `nmap` | [📄 Read Note](./05_networking/40_nmap.md) | ⭐⭐⭐ Advanced |
 
 ---
-#### Category 6: 💾 Disk & Storage Management *(Coming Soon)*
+#### Category 6: 💾 [Disk & Storage Management](./06_disk_storage/)
+| # | Tool | Note | Difficulty |
+|---|------|------|------------|
+| 41 | `df` | [📄 Read Note](./06_disk_storage/41_df.md) | ⭐ Beginner |
+| 42 | `du` | [📄 Read Note](./06_disk_storage/42_du.md) | ⭐⭐ Intermediate |
+| 43 | `mount` / `umount` | [📄 Read Note](./06_disk_storage/43_mount_umount.md) | ⭐⭐ Intermediate |
+| 44 | `fdisk` / `parted` | [📄 Read Note](./06_disk_storage/44_fdisk_parted.md) | ⭐⭐⭐ Advanced |
+| 45 | `lsblk` | [📄 Read Note](./06_disk_storage/45_lsblk.md) | ⭐⭐ Intermediate |
+
+---
 #### Category 7: 📦 Package Management *(Coming Soon)*
 #### Category 8: 📊 System Information & Monitoring *(Coming Soon)*
 #### Category 9: 🗜️ Compression & Archiving *(Coming Soon)*

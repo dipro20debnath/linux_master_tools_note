@@ -123,7 +123,14 @@ This repository contains **comprehensive, production-grade reference notes** for
 | 55 | `lscpu` / `lshw` | [📄 Read Note](./08_system_info/55_lscpu_lshw.md) | ⭐⭐ Intermediate |
 
 ---
-#### Category 9: 🗜️ Compression & Archiving *(Coming Soon)*
+#### Category 9: 🗜️ [Compression & Archiving](./09_compression/)
+| # | Tool | Note | Difficulty |
+|---|------|------|------------|
+| 56 | `tar` | [📄 Read Note](./09_compression/56_tar.md) | ⭐⭐ Intermediate |
+| 57 | `gzip` / `bzip2` / `xz` | [📄 Read Note](./09_compression/57_gzip_bzip2_xz.md) | ⭐⭐ Intermediate |
+| 58 | `zip` / `unzip` | [📄 Read Note](./09_compression/58_zip_unzip.md) | ⭐ Beginner |
+
+---
 #### Category 10: 🔧 Advanced & Miscellaneous *(Coming Soon)*
 
 ---

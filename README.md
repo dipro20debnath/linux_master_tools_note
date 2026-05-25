@@ -112,7 +112,17 @@ This repository contains **comprehensive, production-grade reference notes** for
 | 49 | `pip` / `pip3` | [📄 Read Note](./07_package_management/49_pip.md) | ⭐⭐ Intermediate |
 
 ---
-#### Category 8: 📊 System Information & Monitoring *(Coming Soon)*
+#### Category 8: 📊 [System Information & Monitoring](./08_system_info/)
+| # | Tool | Note | Difficulty |
+|---|------|------|------------|
+| 50 | `uname` | [📄 Read Note](./08_system_info/50_uname.md) | ⭐ Beginner |
+| 51 | `hostname` / `hostnamectl` | [📄 Read Note](./08_system_info/51_hostname.md) | ⭐ Beginner |
+| 52 | `dmesg` | [📄 Read Note](./08_system_info/52_dmesg.md) | ⭐⭐ Intermediate |
+| 53 | `uptime` | [📄 Read Note](./08_system_info/53_uptime.md) | ⭐ Beginner |
+| 54 | `free` | [📄 Read Note](./08_system_info/54_free.md) | ⭐⭐ Intermediate |
+| 55 | `lscpu` / `lshw` | [📄 Read Note](./08_system_info/55_lscpu_lshw.md) | ⭐⭐ Intermediate |
+
+---
 #### Category 9: 🗜️ Compression & Archiving *(Coming Soon)*
 #### Category 10: 🔧 Advanced & Miscellaneous *(Coming Soon)*
 
